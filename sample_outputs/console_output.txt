@@ -1,0 +1,30 @@
+CSV data loaded.
+
+Top 3 models considering err_avg (RMSE)
+(1, 0, 0) - 18.68979293610274
+(2, 0, 0) - 19.072725153963255
+(1, 0, 1) - 19.227607966755876
+
+Top 3 models considering err_single_gap (RMSE)
+linear - 12.58270790105081
+(1, 0, 1) - 12.692780349641565
+(2, 0, 0) - 12.8851160189169
+
+Top 3 models considering err_double_gap (RMSE)
+(0, 2, 2) - 13.812268432381357
+(1, 1, 0) - 18.074375820100066
+(0, 2, 1) - 24.349987785286533
+
+Top 3 models considering err_triple_gap (RMSE)
+(1, 0, 0) - 1.802168311291491
+(2, 0, 0) - 2.552180348756185
+(1, 0, 1) - 2.8605934115848766
+
+Top 3 models considering err_quad_gap (RMSE)
+(0, 1, 1) - 1.854774999670015
+(1, 1, 2) - 4.84929002477001
+(1, 1, 1) - 6.7583494323825635
+
+Model analysis complete.
+
+Process finished with exit code 0
